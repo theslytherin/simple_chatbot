@@ -1,0 +1,14 @@
+
+{"intents":[
+    {"tag":"Greetings1",
+    "patterns":["Hi","Hello","Hey","Is anyone there?"],
+"responses":["Hello!","Hey! What's up?"],
+"context_set":""
+},
+{"tag":"Greetings2",
+    "patterns":["What's up?","Ssup?","Kya kar rahe ho?","Kya haal chaal?","How you doing?","How are you?"],
+"responses":["Fine! You?","Surviving. What about you?","Pretty Good!","Great","Perfect","Bored"],
+"context_set":""
+}    
+]
+}
